@@ -1,1 +1,1 @@
-console.log("happy birthday message");
+console.log("starting");
